@@ -1,0 +1,75 @@
+body{
+  background-image:url('blackbg.jpg');
+  background-attachment: fixed;
+  background-position: relative;
+  background-size: cover;
+  
+  }
+
+.transbox {
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 70px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  border-radius: 15px;
+  height: 800px;
+  width: 600px;
+  padding: 30px;
+}
+
+#logouw{
+  height: 80px;
+  width: 80px;
+}
+
+h2{
+  font-weight: bold;
+  text-shadow:3px 3px 3px blue;
+}
+
+
+
+#lenovo{
+  height:65px;
+  width: 150px;
+}
+
+#amd, #nvidia, #hp{
+  height: 80px;
+  width: 160px;
+}
+
+#asus{
+  height: 65px;
+  width: 150px;
+}
+
+#microsoft{
+  height: 70px;
+  width: 180px;
+}
+
+#acer{
+  height: 100px;
+  width: 170px;
+}
+
+#giga{
+  height: 70px;
+  width: 120px;
+}
+
+#dell{
+  height: 80px;
+  width: 80px;
+}
+.quotes{
+  color:rgb(243, 229, 229);
+  font-size: larger;
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+  
